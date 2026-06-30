@@ -3,7 +3,7 @@
 >this is archive for my project you'll find alot of my old project like this no worries 
 ><br>
 >Yes most of them are not even work and some it an edit code i can't remember
->
+>#### YOU WILL FIND ALOT OF BUG AND UN "FUNCTIONAL" TINGS
 
 > Open this page at [https://fryrvo.github.io/2024-makecodearcade-pvppppvvp/](https://fryrvo.github.io/2024-makecodearcade-pvppppvvp/)
 
